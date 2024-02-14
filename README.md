@@ -17,7 +17,7 @@
 3. Run `terraform apply` to apply configuration changes 
 
 
-4. Terraform successfully completes installation of Hellow World App 🚀 and Prometheus Stack 🔎 to Kind Cluster
+4. Terraform successfully completes installation of Hello World App 🚀 and Prometheus Stack 🔎 to Kind Cluster
 
 
 
